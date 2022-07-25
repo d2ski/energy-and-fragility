@@ -1,0 +1,101 @@
+,Country,Region,SubRegion,Var,Value,FSI,FSIRank,Share,FSILabel,FSILevel
+0,Algeria,Africa,Northern Africa,oilreserves_bbl,12.2,72.2,77th,0.007042391023364329,WARNING,Warning
+1,Angola,Africa,Middle Africa,oilreserves_bbl,7.783,88.1,35th,0.004492699125806933,WARNING,Elevated warning
+2,Argentina,S. & Cent. America,South America,oilreserves_bbl,2.482707493,47.9,138th,0.0014331308985526688,STABLE,More stable
+3,Australia,Asia Pacific,Asia Pacific,oilreserves_bbl,2.390342096,22.7,168th,0.0013798134196426456,SUSTAINABLE,Very sustainable
+4,Azerbaijan,CIS,CIS,oilreserves_bbl,7.0,73.1,73rd,0.004040716160946746,WARNING,Warning
+5,Brazil,S. & Cent. America,South America,oilreserves_bbl,11.92501133,73.9,71st,0.006883655142943436,WARNING,Warning
+6,Brunei,Asia Pacific,Asia Pacific,oilreserves_bbl,1.1,55.1,125th,0.0006349696824344888,STABLE,Stable
+7,Canada,North America,North America,oilreserves_bbl,168.0876108,20.1,172nd,0.09702776077349812,SUSTAINABLE,Very sustainable
+8,Chad,Africa,Middle Africa,oilreserves_bbl,1.5,105.7,9th,0.0008658677487743029,ALERT,Alert
+9,China,Asia Pacific,Asia Pacific,oilreserves_bbl,25.96275738,66.9,98th,0.014986876189729343,STABLE,Less stable
+10,Colombia,S. & Cent. America,South America,oilreserves_bbl,2.036,78.4,60th,0.0011752711576696537,WARNING,Warning
+11,Denmark,Europe,Europe,oilreserves_bbl,0.427707131,18.1,175th,0.0002468918737691239,SUSTAINABLE,Very sustainable
+12,Ecuador,S. & Cent. America,South America,oilreserves_bbl,1.3025471,69.1,89th,0.0007518890167663311,STABLE,Less stable
+13,Egypt,Africa,Northern Africa,oilreserves_bbl,3.146,83.6,42nd,0.0018160132917626377,WARNING,Elevated warning
+14,Equatorial Guinea,Africa,Middle Africa,oilreserves_bbl,1.1,84.1,39th,0.0006349696824344888,WARNING,Elevated warning
+15,Gabon,Africa,Middle Africa,oilreserves_bbl,2.0,66.7,99th,0.0011544903316990703,STABLE,Less stable
+16,India,Asia Pacific,Asia Pacific,oilreserves_bbl,4.543292181,75.3,69th,0.0026225934485242415,WARNING,Warning
+17,Indonesia,Asia Pacific,Asia Pacific,oilreserves_bbl,2.44,66.6,100th,0.0014084782046728658,STABLE,Less stable
+18,Iran,Middle East,Middle East,oilreserves_bbl,157.8,84.1,39th,0.09108928717105666,WARNING,Elevated warning
+19,Iraq,Middle East,Middle East,oilreserves_bbl,145.019,93.8,23rd,0.08371151670633376,WARNING,High warning
+20,Italy,Europe,Europe,oilreserves_bbl,0.604074321,43.4,143rd,0.00034869898161109036,STABLE,More stable
+21,Kazakhstan,CIS,CIS,oilreserves_bbl,30.0,59.5,118th,0.017317354975486057,STABLE,Stable
+22,Kuwait,Middle East,Middle East,oilreserves_bbl,101.5,52.2,130th,0.058590384333727825,STABLE,Stable
+23,Libya,Africa,Northern Africa,oilreserves_bbl,48.363,94.3,21st,0.02791730795598107,WARNING,High warning
+24,Malaysia,Asia Pacific,Asia Pacific,oilreserves_bbl,2.7318,56.4,122nd,0.0015769183440677602,STABLE,Stable
+25,Mexico,North America,North America,oilreserves_bbl,6.06588,70.3,84th,0.0035014999066233787,WARNING,Warning
+26,Nigeria,Africa,Western Africa,oilreserves_bbl,36.89,97.2,16th,0.021294574168189355,WARNING,High warning
+27,Norway,Europe,Europe,oilreserves_bbl,7.901704611,15.6,178th,0.004561220788670732,SUSTAINABLE,Very sustainable
+28,Oman,Middle East,Middle East,oilreserves_bbl,5.373,49.5,136th,0.003101538276109553,STABLE,More stable
+29,Peru,S. & Cent. America,South America,oilreserves_bbl,0.746346029,69.8,87th,0.000430824637291247,STABLE,Less stable
+30,Qatar,Middle East,Middle East,oilreserves_bbl,25.244,42.3,147th,0.014571976966705667,STABLE,More stable
+31,Republic of Congo,Africa,Middle Africa,oilreserves_bbl,2.882,92.2,24th,0.0016636205679783605,WARNING,High warning
+32,Romania,Europe,Europe,oilreserves_bbl,0.6,50.8,133rd,0.0003463470995097211,STABLE,Stable
+33,Russian Federation,CIS,CIS,oilreserves_bbl,107.8042392,72.6,75th,0.062229475936286964,WARNING,Warning
+34,Saudi Arabia,Middle East,Middle East,oilreserves_bbl,297.527,67.5,95th,0.17174602245971465,STABLE,Less stable
+35,South Sudan,Africa,Eastern Africa,oilreserves_bbl,3.5,108.4,3rd,0.002020358080473373,ALERT,Alert
+36,Sudan,Africa,Eastern Africa,oilreserves_bbl,1.5,107.1,7th,0.0008658677487743029,ALERT,Alert
+37,Syria,Middle East,Middle East,oilreserves_bbl,2.5,108.4,3rd,0.0014431129146238381,ALERT,Alert
+38,Thailand,Asia Pacific,Asia Pacific,oilreserves_bbl,0.25275,70.0,86th,0.00014589871566847,WARNING,Warning
+39,Trinidad & Tobago,S. & Cent. America,Caribbean,oilreserves_bbl,0.242982,52.4,129th,0.00014026018488845176,STABLE,Stable
+40,Tunisia,Africa,Northern Africa,oilreserves_bbl,0.425,68.2,93rd,0.00024532919548605244,STABLE,Less stable
+41,Turkmenistan,CIS,CIS,oilreserves_bbl,0.6,66.5,102nd,0.0003463470995097211,STABLE,Less stable
+42,US,North America,North America,oilreserves_bbl,68.757,46.6,140th,0.0396896458683165,STABLE,More stable
+43,United Arab Emirates,Middle East,Middle East,oilreserves_bbl,97.8,39.1,152nd,0.05645457722008454,SUSTAINABLE,Sustainable
+44,United Kingdom,Europe,Europe,oilreserves_bbl,2.5,40.6,150th,0.0014431129146238381,STABLE,More stable
+45,Uzbekistan,CIS,CIS,oilreserves_bbl,0.594,69.6,88th,0.0003428836285146239,STABLE,Less stable
+46,Venezuela,S. & Cent. America,South America,oilreserves_bbl,303.805745,91.6,26th,0.1753703976585666,WARNING,High warning
+47,Vietnam,Asia Pacific,Asia Pacific,oilreserves_bbl,4.4,60.9,115th,0.002539878729737955,STABLE,Less stable
+48,Yemen,Middle East,Middle East,oilreserves_bbl,3.0,111.7,1st,0.0017317354975486057,ALERT,High alert
+49,Algeria,Africa,Northern Africa,gasreserves_tcm,2.2792,72.2,77th,0.012118619585801927,WARNING,Warning
+50,Argentina,S. & Cent. America,South America,gasreserves_tcm,0.385567746,47.9,138th,0.0020500828528997464,STABLE,More stable
+51,Australia,Asia Pacific,Asia Pacific,gasreserves_tcm,2.389595504,22.7,168th,0.01270559796284601,SUSTAINABLE,Very sustainable
+52,Azerbaijan,CIS,CIS,gasreserves_tcm,2.503652799,73.1,73rd,0.013312046264482808,WARNING,Warning
+53,Bahrain,Middle East,Middle East,gasreserves_tcm,0.064831428,66.6,100th,0.0003447119222254771,STABLE,Less stable
+54,Bangladesh,Asia Pacific,Asia Pacific,gasreserves_tcm,0.110227268,84.5,38th,0.0005860838578774298,WARNING,Elevated warning
+55,Bolivia,S. & Cent. America,South America,gasreserves_tcm,0.212867672,73.4,72nd,0.0011318279831007637,WARNING,Warning
+56,Brazil,S. & Cent. America,South America,gasreserves_tcm,0.348528318,73.9,71st,0.0018531423748338902,WARNING,Warning
+57,Brunei,Asia Pacific,Asia Pacific,gasreserves_tcm,0.2223,55.1,125th,0.0011819801394891928,STABLE,Stable
+58,Canada,North America,North America,gasreserves_tcm,2.353957694,20.1,172nd,0.012516109957290952,SUSTAINABLE,Very sustainable
+59,China,Asia Pacific,Asia Pacific,gasreserves_tcm,8.398549656,66.9,98th,0.0446555055956176,STABLE,Less stable
+60,Colombia,S. & Cent. America,South America,gasreserves_tcm,0.086207464,78.4,60th,0.0004583693671782707,WARNING,Warning
+61,Denmark,Europe,Europe,gasreserves_tcm,0.028027957,18.1,175th,0.00014902603924632073,SUSTAINABLE,Very sustainable
+62,Egypt,Africa,Northern Africa,gasreserves_tcm,2.1377125,83.6,42nd,0.011366323521987366,WARNING,Elevated warning
+63,Germany,Europe,Europe,gasreserves_tcm,0.019659538,23.6,167th,0.00010453073984495317,SUSTAINABLE,Very sustainable
+64,India,Asia Pacific,Asia Pacific,gasreserves_tcm,1.320443116,75.3,69th,0.007020861621400021,WARNING,Warning
+65,Indonesia,Asia Pacific,Asia Pacific,gasreserves_tcm,1.252271632,66.6,100th,0.006658390455554292,STABLE,Less stable
+66,Iran,Middle East,Middle East,gasreserves_tcm,32.10137859,84.1,39th,0.17068462412777144,WARNING,Elevated warning
+67,Iraq,Middle East,Middle East,gasreserves_tcm,3.52852591,93.8,23rd,0.01876134749119672,WARNING,High warning
+68,Israel,Middle East,Middle East,gasreserves_tcm,0.588557743,42.6,146th,0.0031293907474970063,STABLE,More stable
+69,Italy,Europe,Europe,gasreserves_tcm,0.04239768,43.4,143rd,0.0002254305700423669,STABLE,More stable
+70,Kazakhstan,CIS,CIS,gasreserves_tcm,2.257115447,59.5,118th,0.01200119492077495,STABLE,Stable
+71,Kuwait,Middle East,Middle East,gasreserves_tcm,1.6948,52.2,130th,0.00901133576431077,STABLE,Stable
+72,Libya,Africa,Northern Africa,gasreserves_tcm,1.429654489,94.3,21st,0.007601543915112779,WARNING,High warning
+73,Malaysia,Asia Pacific,Asia Pacific,gasreserves_tcm,0.908230631,56.4,122nd,0.004829107368051002,STABLE,Stable
+74,Mexico,North America,North America,gasreserves_tcm,0.178069945,70.3,84th,0.0009468067405754967,WARNING,Warning
+75,Myanmar,Asia Pacific,Asia Pacific,gasreserves_tcm,0.432211869,100.0,10th,0.002298091971252833,ALERT,Alert
+76,Netherlands,Europe,Europe,gasreserves_tcm,0.12993036,22.1,169th,0.0006908461765032885,SUSTAINABLE,Very sustainable
+77,Nigeria,Africa,Western Africa,gasreserves_tcm,5.47297945,97.2,16th,0.02910010352556224,WARNING,High warning
+78,Norway,Europe,Europe,gasreserves_tcm,1.42918015,15.6,178th,0.007599021831093952,SUSTAINABLE,Very sustainable
+79,Oman,Middle East,Middle East,gasreserves_tcm,0.6663475,49.5,136th,0.0035430027485302516,STABLE,More stable
+80,Pakistan,Asia Pacific,Asia Pacific,gasreserves_tcm,0.38478633,89.7,30th,0.002045928025222378,WARNING,Elevated warning
+81,Papua New Guinea,Asia Pacific,Asia Pacific,gasreserves_tcm,0.16314448,79.5,55th,0.0008674473019671248,WARNING,Warning
+82,Peru,S. & Cent. America,South America,gasreserves_tcm,0.261442131,69.8,87th,0.0013901007938269538,STABLE,Less stable
+83,Poland,Europe,Europe,gasreserves_tcm,0.072260086,42.2,148th,0.0003842104657210125,STABLE,More stable
+84,Qatar,Middle East,Middle East,gasreserves_tcm,24.66547147,42.3,147th,0.13114753670120247,STABLE,More stable
+85,Romania,Europe,Europe,gasreserves_tcm,0.07886775,50.8,133rd,0.00041934374334772287,STABLE,Stable
+86,Russian Federation,CIS,CIS,gasreserves_tcm,37.39152435,72.6,75th,0.19881259184402406,WARNING,Warning
+87,Saudi Arabia,Middle East,Middle East,gasreserves_tcm,6.019120015,67.5,95th,0.0320039600311826,STABLE,Less stable
+88,Syria,Middle East,Middle East,gasreserves_tcm,0.2686125,108.4,3rd,0.0014282260018827746,ALERT,Alert
+89,Thailand,Asia Pacific,Asia Pacific,gasreserves_tcm,0.143084037,70.0,86th,0.0007607849303281009,WARNING,Warning
+90,Trinidad & Tobago,S. & Cent. America,Caribbean,gasreserves_tcm,0.289866426,52.4,129th,0.0015412341819015466,STABLE,Stable
+91,Turkmenistan,CIS,CIS,gasreserves_tcm,13.60125,66.5,102nd,0.07231852169243087,STABLE,Less stable
+92,US,North America,North America,gasreserves_tcm,12.61870442,46.6,140th,0.06709427805004271,STABLE,More stable
+93,Ukraine,Europe,Europe,gasreserves_tcm,1.091210967,68.6,92nd,0.005802022901425089,STABLE,Less stable
+94,United Arab Emirates,Middle East,Middle East,gasreserves_tcm,5.938725,39.1,152nd,0.03157649574398541,SUSTAINABLE,Sustainable
+95,United Kingdom,Europe,Europe,gasreserves_tcm,0.186979343,40.6,150th,0.0009941784521850544,STABLE,More stable
+96,Uzbekistan,CIS,CIS,gasreserves_tcm,0.845325,69.6,88th,0.00449463500411022,STABLE,Less stable
+97,Venezuela,S. & Cent. America,South America,gasreserves_tcm,6.260173406,91.6,26th,0.0332856528819182,WARNING,High warning
+98,Vietnam,Asia Pacific,Asia Pacific,gasreserves_tcm,0.645928639,60.9,115th,0.003434434650586075,STABLE,Less stable
+99,Yemen,Middle East,Middle East,gasreserves_tcm,0.26583103,111.7,1st,0.001413436787764084,ALERT,High alert
